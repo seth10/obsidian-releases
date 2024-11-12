@@ -13999,13 +13999,13 @@
         "author": "Akop Kesheshyan",
         "description": "Store and visualise ASCII graphics and charts",
         "repo": "akopdev/obsidian-textgrams"
-  },
-  {
-    "id": "beautiful-contact-cards",
-    "name": "Beautiful Contact Cards",
-    "author": "Seth Tenembaum",
-    "description": "Renders \"contact\" code blocks with tappable links for phone, social media, etc.",
-    "repo": "seth10/beautiful-obsidian-contacts"
-  }
+    },
+    {
+        "id": "beautiful-contact-cards",
+        "name": "Beautiful Contact Cards",
+        "author": "Seth Tenembaum",
+        "description": "Renders \"contact\" code blocks with tappable links for phone, social media, etc.",
+        "repo": "seth10/beautiful-obsidian-contacts"
+    }
 ]
 
